@@ -1,0 +1,40 @@
+{
+  "name": "datetimepicker_ozee",
+  "version": "1.0.0",
+  "main": [
+    "class.datetimepicker_ozee.js",
+  ],
+  "ignore": [
+    "demo.js",
+    "index.php",
+    "**/.*",
+    "bower_components",
+    "README.md",
+  ],
+  "keywords": [
+    "calendar",
+    "date",
+    "time",
+    "form",
+    "datetime",
+    "datepicker",
+    "timepicker",
+    "datetimepicker",
+    "validation",
+    "ui",
+    "scroller",
+    "picker",
+    "i18n",
+    "input",
+    "jquery",
+    "touch"
+  ],
+  "authors": [
+    "Ozee31 <flavien.beninca@gmail.com>"
+  ],
+  "description": "Class to create a Datetimepicker (xdan) with more options like conversions",
+  "license": "MIT",
+  "dependencies": {
+    "datetimepicker": "2.*"
+  }
+}
