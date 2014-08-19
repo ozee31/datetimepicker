@@ -17,7 +17,7 @@ Class to create a Datetimepicker [xdan/datetimepicker](https://github.com/xdan/d
 
 ## Installation
 
-- With [bower](http://bower.io/) (RECOMMENDED)
+### With [bower](http://bower.io/) (RECOMMENDED)
 `bower install datetimepicker_ozee`
 
 In HTML or PHP page insert diffenrents scripts :
@@ -29,7 +29,7 @@ In HTML or PHP page insert diffenrents scripts :
 <script src="bower_components/datetimepicker_ozee/class.datetimepicker_ozee.js"></script>
 ```
 
-- Download sources on GitHub
+### Or Download sources on GitHub
 Copy "class.datetimepicker_ozee.js" file and "bower_components" folder into project
 
 In HTML or PHP page insert diffenrents scripts :
