@@ -2,14 +2,14 @@
   "name": "datetimepicker_ozee",
   "version": "1.0.0",
   "main": [
-    "class.datetimepicker_ozee.js",
+    "class.datetimepicker_ozee.js"
   ],
   "ignore": [
     "demo.js",
     "index.php",
     "**/.*",
     "bower_components",
-    "README.md",
+    "README.md"
   ],
   "keywords": [
     "calendar",
